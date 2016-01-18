@@ -1,0 +1,28 @@
+name: marcwilliams
+favicon: null
+layout_spectrum: 0.7283602368552238
+typography_spectrum: 0.35096242162398994
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.15169282141141593
+  lightness: 0.8857779756654054
+  saturation: 0.7669337936677039
+  rhythmicContrast: 0.2126311573665589
+purpose: []
