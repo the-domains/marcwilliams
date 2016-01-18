@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[marcwilliams]]></title>
         <description><![CDATA[marcwilliams]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marcwilliams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 16:22:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 20:40:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marcwilliams/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f5d54e5-d957-4667-b019-06bd382170d4.jpg">]]></description>
-            <link>undefinedfba39e75-d4b5-446c-8aa8-db384310bde7/index.html</link>
+            <link>https://thegrid.ai/marcwilliams/fba39e75-d4b5-446c-8aa8-db384310bde7/index.html</link>
             <guid isPermaLink="false">fba39e75-d4b5-446c-8aa8-db384310bde7</guid>
-            <pubDate>Sun, 17 Jan 2016 16:22:26 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 20:40:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
